@@ -5,7 +5,7 @@
     <a style="color:dodgerblue">kaggle</a> 
 </p>
 
-<center><img src="photo/FloopyBits2.png" width=250></center>
+<center><img align="center" src="photo/FloopyBits2.png" width=250></center>
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/ width=25>
 <img
