@@ -1,6 +1,6 @@
 
 <p align="center">
-    <b>Hi 👋 I am Nabeel</b>
+    <b>Hi 👋 I am Nabeel</b><br>
     <a style="color:dodgerblue">twitter</a> |
     <a style="color:dodgerblue">linkedin</a> |
     <a style="color:dodgerblue">kaggle</a> 
