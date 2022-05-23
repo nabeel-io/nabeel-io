@@ -1,11 +1,13 @@
 <h2 align="center"><b>Hi 👋 I am Nabeel</b></h2>
-<p aligh="center">
+<p align="center">
     <a style="color:dodgerblue">twitter</a> |
     <a style="color:dodgerblue">linkedin</a> |
     <a style="color:dodgerblue">kaggle</a> 
 </p>
 
-<center><img align="center" src="photo/FloopyBits2.png" width=250></center>
+<p align="center"><img src="photo/FloopyBits2.png" width=250>
+</p>
+
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/ width=25>
 <img
@@ -36,7 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 myskills = {
     languages: ["Python", "R", "Julia", "C++"],
     databases: ["Postgres", "MySQL"],
-    libraries: ["Keras", "TF","Pandas","ScikitLearn","Xgboost",                 "Dplyr", "ggplot2"]
+    libraries: ["Keras", "TF","Pandas","ScikitLearn","Xgboost", "Dplyr", "ggplot2"]
     other: ["Github", "Vim", "Linux"]
     }
 ```
