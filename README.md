@@ -1,5 +1,5 @@
 
-<center>  ## **Hi 👋 I am Nabeel**  </center> 
+<p align="center" style="font-size: 200%;"><b>Hi 👋 I am Nabeel</b></p>
 
 <p align="center">
     <a style="color:dodgerblue">twitter</a> |
