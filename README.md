@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hi 👋 I am Nabeel</b></h2>
+<p align="center"><b>Hi 👋 I am Nabeel</b></p>
 <p align="center">
     <a style="color:dodgerblue">twitter</a> |
     <a style="color:dodgerblue">linkedin</a> |
