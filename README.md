@@ -1,12 +1,12 @@
 
+<p align="center" style="font-size: 200%;"><b>Hi 👋 I am Nabeel</b></p>
 <p align="center">
-    <b>Hi 👋 I am Nabeel</b><br>
     <a style="color:dodgerblue">twitter</a> |
     <a style="color:dodgerblue">linkedin</a> |
     <a style="color:dodgerblue">kaggle</a> 
 </p>
 
-<p align="center"><img src="photo/FloopyBits3.png" width=250>
+<p align="center"><img src="photo/FloopyBits5.png" width=250>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 myskills = {
     languages: ["Python", "R", "Julia", "C++"],
     databases: ["Postgres", "MySQL"],
-    libraries: ["Keras", "TF","Pandas","ScikitLearn","Xgboost", "Dplyr", "ggplot2"]
+    libraries: ["Keras", "TF","Pandas","ScikitLearn","Xgboost", "Dplyr", "ggplot2"],
     other: ["Github", "Vim", "Linux"]
     }
 for skill in myskills:
