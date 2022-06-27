@@ -34,6 +34,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 * 🚴‍♂️ Love to wander in `nature` with my cycle.
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
+
+**CV/Portfolio**
 <p align="center">
 <img src="photo/cv.png" width=80, hspace=100>
 <img src="photo/portfolio.png" width = 80, hspace=100>
