@@ -35,8 +35,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
 <p align="center">
-<img src="photo/cv.png" width=80, hspace=100>
-<img src="photo/portfolio.png" width = 80>
+<img src="photo/cv.png" width=80, hspace=50>
+<img src="photo/portfolio.png" width = 80, hspace=50>
 </p>
 
 
