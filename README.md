@@ -34,8 +34,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 * 🚴‍♂️ Love to wander in `nature` with my cycle.
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
+<p align="center">
+<img src="photo/cv.png" width=80>
+<img src="photo/portfolio.png" width = 80>
+</p>
 
-**More about skills**
+
+**My Skills**
 
 ```python
 myskills = {
