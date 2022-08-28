@@ -38,6 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 <p align="center">
 <img src="photo/cv.png" width=80, hspace=100>
 <img src="photo/portfolio.png" width = 80, hspace=100>
+<img src="photo/blog.png" width = 80, hspace=100>
 </p>
 
 
