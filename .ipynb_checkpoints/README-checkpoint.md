@@ -1,12 +1,12 @@
 
 <p align="center" style="font-size: 200%;"><b>Hi 👋 I am Nabeel</b></p>
 <p align="center">
-    <a style="color:dodgerblue">twitter</a> |
-    <a style="color:dodgerblue">linkedin</a> |
-    <a style="color:dodgerblue">kaggle</a> 
+    <a href="https://twitter.com/floopybits" style="color:dodgerblue">twitter</a> |
+    <a href="https://www.linkedin.com/in/nabeel-hasan-08b2a615a/" style="color:dodgerblue">linkedin</a> |
+    <a href="https://www.kaggle.com/floopybits" style="color:dodgerblue">kaggle</a> 
 </p>
 
-<p align="center"><img src="photo/FloopyBits5.png" width=250>
+<p align="center"><img src="photo/FloopyBits7.png" width=250>
 </p>
 
 <p align="center">
@@ -28,16 +28,16 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 </p>          
 
 
-* 👨‍💻 Currently working on my `Deep Learning` concepts.
+* 👨‍💻 Currently working on `Deep Learning`  and `Time Series` concepts.
 * 💡 I am learning `Data Science & ML`.
-* 🤓 I strongly believe in `self/collaborative` learning.
-* 🚴‍♂️ Love to wander in `nature` with my cycle.
+* 🤓 I strongly believe in `collaborative` learning.
+* 🚴‍♂️ Love to wander in `nature` with my bicycle.
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
 
 <p align="center">
-<img src="photo/cv.png" width=80, hspace=70>
-<img src="photo/portfolio.png" width = 80, hspace=70>
+<a href="https://nabeel-io.github.io/resume-info/"><img src="photo/cv.png" width=80, hspace=70></a>
+<a href="https://github.com/nabeel-io/resume-info"><img src="photo/portfolio.png" width = 80, hspace=70></a>
 <img src="photo/blog.png" width = 80, hspace=70>
 </p>
 
@@ -45,12 +45,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 **My Skills**
 
 ```python
-myskills = {
-    languages: ["Python", "R", "Julia", "C++"],
-    databases: ["Postgres", "MySQL"],
-    libraries: ["Keras", "TF","Pandas","ScikitLearn","Xgboost", "Dplyr", "ggplot2"],
-    other: ["Github", "Vim", "Linux"]
+Myskills = {
+    "languages": ["Python", "R", "Julia"],
+    "databases": ["Postgres", "MySQL"],
+    "libraries": ["Keras", "Numpy", "Pandas", "ScikitLearn","Xgboost", "Dplyr", "ggplot2"],
+    "other": ["Statistics", "Probability", "Github", "Vim", "Linux"]
     }
-for skill in myskills:
-    print(myskills[skill])
+for key, value in Myskills.items():
+    print(key , value)
 ```
