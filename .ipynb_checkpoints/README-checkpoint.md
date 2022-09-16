@@ -38,7 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 <p align="center">
 <a href="https://nabeel-io.github.io/resume-info/"><img src="photo/cv.png" width=80, hspace=70></a>
 <a href="https://github.com/nabeel-io/resume-info"><img src="photo/portfolio.png" width = 80, hspace=70></a>
-<img src="photo/blog.png" width = 80, hspace=70>
+<a href="https://medium.com/@floopybits"><img src="photo/blog.png" width = 80, hspace=70></a>
 </p>
 
 
