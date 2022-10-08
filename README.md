@@ -6,7 +6,7 @@
     <a href="https://www.kaggle.com/floopybits" style="color:dodgerblue">kaggle</a> 
 </p>
 
-<p align="center"><img src="photo/FloopyBits4.png" width=250>
+<p align="center"><img src="photo/FloopyBits13.png" width=250>
 </p>
 
 <p align="center">
