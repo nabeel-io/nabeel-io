@@ -15,12 +15,12 @@
  src="https://www.r-project.org/logo/Rlogo.png" width=25>
 <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/e621cb9e88ff9e0c9e9cad8847b5986e0c43626d/images/julia-logo-dark.svg" width=35 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width=25/>
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width=25>
 <img 
 src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" width=45>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=25/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=25/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width=25>
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width=35>
 <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" width=55 />
