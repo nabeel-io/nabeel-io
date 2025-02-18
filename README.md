@@ -1,12 +1,12 @@
 
 <p align="center" style="font-size: 200%;"><b>Hi 👋 I am Nabeel</b></p>
 <p align="center">
-    <a href="https://twitter.com/floopybits" style="color:dodgerblue">twitter</a> |
+    <a href="https://nabeel-io.github.io/blog/index.html" style="color:dodgerblue">blog</a> |
     <a href="https://www.linkedin.com/in/nabeel-hasan-08b2a615a/" style="color:dodgerblue">linkedin</a> |
     <a href="https://www.kaggle.com/floopybits" style="color:dodgerblue">kaggle</a> 
 </p>
 
-<p align="center"><img src="photo/FloopyBits14.png" width=200>
+<p align="center"><img src="photo/FloopyBits15.png" width=200>
 </p>
 
 <p align="center">
@@ -27,17 +27,15 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 </p>          
 
 
-* 👨‍💻 Currently working on `Gradient Boosting`  and `Time Series` concepts.
-* 💡 Always learning somthing new in `Data Science & ML`.
-* 🤓 I strongly believe in `collaborative` learning.
+* 👨‍💻 Currently working on `A/B Testing`  and `Time Series` problems.
+* 💡 Learning `Quasi-Experiments & Gaussian Process`.
+* 🤓 Facinated in findind `Non-normal` within `Normal`.
 * 🚴‍♂️ Love to wander in `nature` with my bicycle.
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
 
 <p align="center">
-<a href="https://nabeel-io.github.io/resume-info/"><img src="photo/cv.png" width=80, hspace=70></a>
-<a href="https://github.com/nabeel-io/DS_Portfolio"><img src="photo/portfolio.png" width = 80, hspace=70></a>
-<a href="https://medium.com/@floopybits"><img src="photo/blog.png" width = 80, hspace=70></a>
+<a href="https://nabeel-io.github.io/blog/index.html"><img src="photo/blog.png" width = 80, hspace=70></a>
 </p>
 
 
@@ -45,10 +43,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 
 ```python
 Myskills = {
-    "languages": ["Python", "R", "Julia", "Excel"],
-    "databases": ["Postgres", "MySQL"],
-    "libraries": ["Numpy", "Pandas", "Matplotlib", "ScikitLearn","Requests", "Flask", "Click", "git"],
-    "other": ["Statistics", "Probability", "Regression", "AWS", "Vim", "Linux"]
+    "languages": ["Python", "R", "Julia", "Excel", "SQL"],
+    "analytical": ["A/B Testing", "Decision Science", "Regression Analysis", "Time Series", "Basket Analysis"],
+    "libraries": ["Numpy", "Pandas", "Matplotlib", "ScikitLearn","XgBoost","Requests", "Flask", "Click", "git"],
+    "other": ["API Integration", "Orchestration", "Vim", "AWS", "Communication", "Collaboration".]
     }
 for key, value in Myskills.items():
     print(key , value)
