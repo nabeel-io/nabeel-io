@@ -2,7 +2,7 @@
 <p align="center" style="font-size: 200%;"><b>Hi 👋 I am Nabeel</b></p>
 <p align="center">
     <a href="https://nabeel-io.github.io/blog/index.html" style="color:dodgerblue">blog</a> |
-    <a href="https://www.linkedin.com/in/nabeel-hasan-08b2a615a/" style="color:dodgerblue">linkedin</a> |
+    <a href="https://www.linkedin.com/in/nabeel-hasan-bits00/" style="color:dodgerblue">linkedin</a> |
     <a href="https://www.kaggle.com/floopybits" style="color:dodgerblue">kaggle</a> 
 </p>
 
