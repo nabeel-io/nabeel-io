@@ -29,7 +29,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 
 * 👨‍💻 Currently working on `A/B Testing`  and `Time Series` problems.
 * 💡 Learning `Quasi-Experiments & Gaussian Process`.
-* 🤓 Facinated in findind `Non-normal` within `Normal`.
+* 🤓 Focused on finding `Non-normal` within `Normal`.
 * 🚴‍♂️ Love to wander in `nature` with my bicycle.
 * ✉️ `Reach` me at nabeel.io@outlook.com
 
